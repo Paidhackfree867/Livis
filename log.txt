@@ -1,0 +1,365 @@
+UserID: 5775416647 | Time: 2024-06-11 03:03:46.129438 | Command: /bgmi | Target: 20.204.191.52 | Port: 10200 | Time: 180
+UserID: 5775416647 | Time: 2024-06-11 03:21:33.608631 | Command: /bgmi | Target: 20.204.191.150 | Port: 10085 | Time: 180
+Username: @Chugh4321
+Target: 20.204.191.150
+Port: 10085
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 03:41:11.472429 | Command: /bgmi | Target: 20.219.165.44 | Port: 22627 | Time: 180
+Username: @Chugh4321
+Target: 20.219.165.44
+Port: 22627
+Time: 180
+
+UserID: 5902918045 | Time: 2024-06-11 03:43:02.624419 | Command: /bgmi | Target: 52.172.12.33 | Port: 10368 | Time: 180
+Username: @ZOMBSTEROWNER
+Target: 52.172.12.33
+Port: 10368
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 04:00:35.981746 | Command: /bgmi | Target: 20.235.93.150 | Port: 16591 | Time: 180
+Username: @Chugh4321
+Target: 20.235.93.150
+Port: 16591
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 04:22:24.417437 | Command: /bgmi | Target: 20.235.93.150 | Port: 16591 | Time: 180
+Username: @Chugh4321
+Target: 20.235.93.150
+Port: 16591
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 04:26:56.549238 | Command: /bgmi | Target: 20.235.93.150 | Port: 16591 | Time: 120
+Username: @Chugh4321
+Target: 20.235.93.150
+Port: 16591
+Time: 120
+
+UserID: 5775416647 | Time: 2024-06-11 04:34:41.761187 | Command: /bgmi | Target: 20.235.51.181 | Port: 28741 | Time: 180
+UserID: 5775416647 | Time: 2024-06-11 04:49:22.576268 | Command: /bgmi | Target: 20.235.51.181 | Port: 28741 | Time: 180
+Username: @Chugh4321
+Target: 20.235.51.181
+Port: 28741
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 05:03:53.723558 | Command: /bgmi | Target: 20.235.51.181 | Port: 28741 | Time: 60
+Username: @Chugh4321
+Target: 20.235.51.181
+Port: 28741
+Time: 60
+
+UserID: 5775416647 | Time: 2024-06-11 05:24:04.610135 | Command: /bgmi | Target: 20.219.160.167 | Port: 19713 | Time: 180
+Username: @Chugh4321
+Target: 20.219.160.167
+Port: 19713
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 05:31:21.275945 | Command: /bgmi | Target: 20.219.160.167 | Port: 19713 | Time: 180
+Username: @Chugh4321
+Target: 20.219.160.167
+Port: 19713
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 05:42:52.320749 | Command: /bgmi | Target: 20.204.181.168 | Port: 19518 | Time: 180
+Username: @Chugh4321
+Target: 20.204.181.168
+Port: 19518
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 07:24:54.877060 | Command: /bgmi | Target: 20.204.179.53 | Port: 16908 | Time: 180
+Username: @Chugh4321
+Target: 20.204.179.53
+Port: 16908
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 07:44:44.098171 | Command: /bgmi | Target: 20.204.179.53 | Port: 16908 | Time: 180
+Username: @Chugh4321
+Target: 20.204.179.53
+Port: 16908
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 07:50:13.030124 | Command: /bgmi | Target: 20.204.179.53 | Port: 16908 | Time: 120
+Username: @Chugh4321
+Target: 20.204.179.53
+Port: 16908
+Time: 120
+
+UserID: 5775416647 | Time: 2024-06-11 07:58:09.890815 | Command: /bgmi | Target: 20.198.102.117 | Port: 17154 | Time: 180
+Username: @Chugh4321
+Target: 20.198.102.117
+Port: 17154
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 08:05:45.493132 | Command: /bgmi | Target: 20.198.102.117 | Port: 17154 | Time: 180
+Username: @Chugh4321
+Target: 20.198.102.117
+Port: 17154
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 08:11:30.645261 | Command: /bgmi | Target: 20.198.102.117 | Port: 17154 | Time: 180
+UserID: 5775416647 | Time: 2024-06-11 08:50:40.693474 | Command: /bgmi | Target: 20.204.88.3 | Port: 28307 | Time: 180
+Username: @Chugh4321
+Target: 20.204.88.3
+Port: 28307
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 08:56:02.481620 | Command: /bgmi | Target: 20.204.18.99 | Port: 10878 | Time: 180
+Username: @Chugh4321
+Target: 20.204.18.99
+Port: 10878
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 09:31:51.722151 | Command: /bgmi | Target: 20.219.76.241 | Port: 23316 | Time: 180
+Username: @Chugh4321
+Target: 20.219.76.241
+Port: 23316
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 09:45:55.421141 | Command: /bgmi | Target: 20.219.76.241 | Port: 23316 | Time: 180
+Username: @Chugh4321
+Target: 20.219.76.241
+Port: 23316
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 10:10:55.931284 | Command: /bgmi | Target: 4.213.64.207 | Port: 12974 | Time: 180
+Username: @Chugh4321
+Target: 4.213.64.207
+Port: 12974
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 10:32:47.593890 | Command: /bgmi | Target: 20.204.178.48 | Port: 13798 | Time: 180
+Username: @Chugh4321
+Target: 20.204.178.48
+Port: 13798
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 10:53:08.177304 | Command: /bgmi | Target: 20.204.178.48 | Port: 13798 | Time: 180
+Username: @Chugh4321
+Target: 20.204.178.48
+Port: 13798
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 10:58:48.320106 | Command: /bgmi | Target: 20.204.178.48 | Port: 13798 | Time: 60
+Username: @Chugh4321
+Target: 20.204.178.48
+Port: 13798
+Time: 60
+
+UserID: 5775416647 | Time: 2024-06-11 14:53:36.868450 | Command: /bgmi | Target: 20.235.20.221 | Port: 18412 | Time: 180
+Username: @Chugh4321
+Target: 20.235.20.221
+Port: 18412
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 15:04:34.360061 | Command: /bgmi | Target: 20.204.19.47 | Port: 10014 | Time: 180
+Username: @Chugh4321
+Target: 20.204.19.47
+Port: 10014
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 15:12:26.979696 | Command: /bgmi | Target: 20.204.19.47 | Port: 10014 | Time: 120
+Username: @Chugh4321
+Target: 20.204.19.47
+Port: 10014
+Time: 120
+
+UserID: 5775416647 | Time: 2024-06-11 16:05:46.171895 | Command: /bgmi | Target: 20.219.88.200 | Port: 28891 | Time: 180
+Username: @Chugh4321
+Target: 20.219.88.200
+Port: 28891
+Time: 180
+
+UserID: 7412743106 | Time: 2024-06-11 16:05:47.411904 | Command: /bgmi | Target: 13.71.66.41 | Port: 14835 | Time: 180
+Username: @Black_hat33
+Target: 13.71.66.41
+Port: 14835
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 16:11:23.651093 | Command: /bgmi | Target: 20.219.88.200 | Port: 28891 | Time: 120
+Username: @Chugh4321
+Target: 20.219.88.200
+Port: 28891
+Time: 120
+
+UserID: 5775416647 | Time: 2024-06-11 16:19:29.595699 | Command: /bgmi | Target: 52.140.18.56 | Port: 11136 | Time: 180
+Username: @Chugh4321
+Target: 52.140.18.56
+Port: 11136
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 16:31:37.021729 | Command: /bgmi | Target: 20.219.161.193 | Port: 14590 | Time: 180
+Username: @Chugh4321
+Target: 20.219.161.193
+Port: 14590
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-11 17:03:37.294965 | Command: /bgmi | Target: 20.219.161.193 | Port: 14590 | Time: 60
+Username: @Chugh4321
+Target: 20.219.161.193
+Port: 14590
+Time: 60
+
+UserID: 5775416647 | Time: 2024-06-12 02:42:11.193437 | Command: /bgmi | Target: 20.219.161.193 | Port: 14590 | Time: 60
+Username: @Chugh4321
+Target: 20.219.161.193
+Port: 14590
+Time: 60
+
+UserID: 5775416647 | Time: 2024-06-12 02:54:25.169234 | Command: /bgmi | Target: 20.198.74.140 | Port: 17816 | Time: 180
+Username: @Chugh4321
+Target: 20.198.74.140
+Port: 17816
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 03:05:08.689872 | Command: /bgmi | Target: 20.198.74.140 | Port: 17816 | Time: 60
+Username: @Chugh4321
+Target: 20.198.74.140
+Port: 17816
+Time: 60
+
+UserID: 5775416647 | Time: 2024-06-12 03:14:02.144900 | Command: /bgmi | Target: 20.204.17.0 | Port: 10521 | Time: 180
+Username: @Chugh4321
+Target: 20.204.17.0
+Port: 10521
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 03:31:59.861667 | Command: /bgmi | Target: 20.204.19.179 | Port: 10949 | Time: 180
+Username: @Chugh4321
+Target: 20.204.19.179
+Port: 10949
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 04:00:54.351104 | Command: /bgmi | Target: 20.204.17.4 | Port: 19039 | Time: 180
+Username: @Chugh4321
+Target: 20.204.17.4
+Port: 19039
+Time: 180
+
+UserID: 5902918045 | Time: 2024-06-12 04:08:44.530583 | Command: /bgmi | Target: 20.198.111.212 | Port: 21835 | Time: 180
+Username: @ZOMBSTEROWNER
+Target: 20.198.111.212
+Port: 21835
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 04:14:45.430948 | Command: /bgmi | Target: 20.204.39.58 | Port: 12065 | Time: 180
+Username: @Chugh4321
+Target: 20.204.39.58
+Port: 12065
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 05:12:10.101089 | Command: /bgmi | Target: 20.198.106.109 | Port: 14386 | Time: 180
+Username: @Chugh4321
+Target: 20.198.106.109
+Port: 14386
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 05:28:01.554535 | Command: /bgmi | Target: 20.204.13.166 | Port: 10765 | Time: 180
+Username: @Chugh4321
+Target: 20.204.13.166
+Port: 10765
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 05:45:08.924317 | Command: /bgmi | Target: 20.198.111.212 | Port: 21905 | Time: 180
+Username: @Chugh4321
+Target: 20.198.111.212
+Port: 21905
+Time: 180
+
+UserID: 5902918045 | Time: 2024-06-12 06:03:53.045560 | Command: /bgmi | Target: 20.235.20.37 | Port: 14205 | Time: 180
+Username: @ZOMBSTEROWNER
+Target: 20.235.20.37
+Port: 14205
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 06:06:26.888710 | Command: /bgmi | Target: 20.219.160.205 | Port: 21254 | Time: 180
+Username: @Chugh4321
+Target: 20.219.160.205
+Port: 21254
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 06:13:59.696960 | Command: /bgmi | Target: 20.219.160.205 | Port: 21254 | Time: 180
+Username: @Chugh4321
+Target: 20.219.160.205
+Port: 21254
+Time: 180
+
+UserID: 5902918045 | Time: 2024-06-12 06:16:40.655631 | Command: /bgmi | Target: 20.235.51.134 | Port: 14272 | Time: 180
+UserID: 5902918045 | Time: 2024-06-12 06:17:02.266346 | Command: /bgmi | Target: 20.235.51.134 | Port: 14272 | Time: 180
+Username: @ZOMBSTEROWNER
+Target: 20.235.51.134
+Port: 14272
+Time: 180
+
+UserID: 5902918045 | Time: 2024-06-12 06:23:05.779284 | Command: /bgmi | Target: 20.204.18.155 | Port: 10092 | Time: 180
+Username: @ZOMBSTEROWNER
+Target: 20.204.18.155
+Port: 10092
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 06:26:03.443068 | Command: /bgmi | Target: 20.204.10.249 | Port: 28429 | Time: 180
+Username: @Chugh4321
+Target: 20.204.10.249
+Port: 28429
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 06:45:14.150351 | Command: /bgmi | Target: 20.40.43.63 | Port: 10662 | Time: 180
+Username: @Chugh4321
+Target: 20.40.43.63
+Port: 10662
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 06:51:46.851908 | Command: /bgmi | Target: 20.40.43.63 | Port: 10662 | Time: 180
+Username: @Chugh4321
+Target: 20.40.43.63
+Port: 10662
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 07:02:59.733300 | Command: /bgmi | Target: 20.204.181.170 | Port: 13320 | Time: 180
+Username: @Chugh4321
+Target: 20.204.181.170
+Port: 13320
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 07:15:07.354689 | Command: /bgmi | Target: 20.204.181.170 | Port: 13320 | Time: 60
+Username: @Chugh4321
+Target: 20.204.181.170
+Port: 13320
+Time: 60
+
+UserID: 5775416647 | Time: 2024-06-12 07:25:33.348936 | Command: /bgmi | Target: 20.204.155.49 | Port: 11155 | Time: 180
+Username: @Chugh4321
+Target: 20.204.155.49
+Port: 11155
+Time: 180
+
+UserID: 5902918045 | Time: 2024-06-12 07:26:45.032987 | Command: /bgmi | Target: 20.204.39.136 | Port: 22489 | Time: 180
+Username: @ZOMBSTEROWNER
+Target: 20.204.39.136
+Port: 22489
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 07:33:00.202178 | Command: /bgmi | Target: 20.235.89.82 | Port: 23084 | Time: 180
+Username: @Chugh4321
+Target: 20.235.89.82
+Port: 23084
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 07:39:47.271963 | Command: /bgmi | Target: 20.235.89.82 | Port: 23084 | Time: 180
+Username: @Chugh4321
+Target: 20.235.89.82
+Port: 23084
+Time: 180
+
+UserID: 5902918045 | Time: 2024-06-12 08:13:21.743124 | Command: /bgmi | Target: 20.235.148.205 | Port: 21904 | Time: 180
+Username: @ZOMBSTEROWNER
+Target: 20.235.148.205
+Port: 21904
+Time: 180
+
+UserID: 5775416647 | Time: 2024-06-12 08:22:04.687714 | Command: /bgmi | Target: 20.219.1.52 | Port: 12367 | Time: 180
+UserID: 5775416647 | Time: 2024-06-12 08:26:57.019416 | Command: /bgmi | Target: 20.219.1.52 | Port: 12367 | Time: 180
+Username: @Chugh4321
+Target: 20.219.1.52
+Port: 12367
+Time: 180
+
